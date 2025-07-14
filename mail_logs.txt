@@ -1,0 +1,72 @@
+
+From: shay@taskflow.com
+To: bryson@taskflow.com (Bryson)
+Subject: New Task Assigned: Update Dashboard Layout
+----------------------------------------
+Hi Bryson,
+
+You have a new task assigned to you in TaskFlow.
+
+Title: Update Dashboard Layout
+Description: Redesign the admin dashboard UI to match the new brand guidelines.
+Deadline: 2025-07-07
+
+Please log in to update your task status.
+
+— TaskFlow System (Sent by Shay Yun)
+
+
+
+From: shay@taskflow.com
+To: zawadi@taskflow.com (Zawadi Mugure)
+Subject: New Task Assigned: Test Task Creation
+----------------------------------------
+Hi Zawadi Mugure,
+
+You have a new task assigned to you in TaskFlow.
+
+Title: Test Task Creation
+Description: Verify that admins can assign tasks correctly, and data reflects in user dashboard.
+Deadline: 2025-07-21
+
+Please log in to update your task status.
+
+— TaskFlow System (Sent by Shay Yun)
+
+
+
+From: shay@taskflow.com
+To: zawadi@taskflow.com (Zawadi Mugure)
+Subject: New Task Assigned: Validate Login Workflow
+----------------------------------------
+Hi Zawadi Mugure,
+
+You have a new task assigned to you in TaskFlow.
+
+Title: Validate Login Workflow
+Description: Test login with valid/invalid emails and passwords. Report any unexpected behaviors.
+Deadline: 2025-07-19
+
+Please log in to update your task status.
+
+— TaskFlow System (Sent by Shay Yun)
+
+
+
+From: shay@taskflow.com
+To: shayblessings019@gmail.com (Blessings)
+Subject: New Task Assigned: Improve Form Styling
+----------------------------------------
+Hi Blessings,
+
+You have a new task assigned to you in TaskFlow.
+
+Title: Improve Form Styling
+Description: Style the task assignment form with soft shadows, rounded borders, and hover effects.
+Deadline: 2025-07-17
+
+Please log in to update your task status.
+
+— TaskFlow System (Sent by Shay Yun)
+
+
